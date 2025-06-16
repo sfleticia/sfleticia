@@ -15,5 +15,5 @@ Me interesso muito pela parte do design, usabilidade, e tudo que envolve pensar 
 📌 Conheça mais sobre mim: [LinkedIn](https://www.linkedin.com/in/leticiafranca3008)
 
 
-![snake gif](https://github.com/leticiafranca/leticiafranca/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/sfleticia/sfleticia/raw/output/github-contribution-grid-snake.svg)
 
