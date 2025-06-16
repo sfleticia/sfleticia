@@ -11,10 +11,9 @@ Me interesso muito pela parte do design, usabilidade, e tudo que envolve pensar 
 </p1>
 
 ## Conheça um pouco do meu trabalho 🌐:
-<p2>📌 Meu portfólio visual: <a href="https://www.behance.net/letciafrana6" target="_blank">Behance</a> </p2>
-
-<p3>📌 Conheça mais sobre mim: <a href="https://www.linkedin.com/in/leticiafranca3008" target="_blank">LinkedIn</a> </p3>
-
+📌 Meu portfólio visual: [Behance](https://www.behance.net/letciafrana6)  
+📌 Conheça mais sobre mim: [LinkedIn](https://www.linkedin.com/in/leticiafranca3008)
 
 
-![snake gif](https://github.com/leticiafranca/leticiafranca/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/leticiafranca/leticiafranca/raw/output/github-contribution-grid-snake.svg)
+
